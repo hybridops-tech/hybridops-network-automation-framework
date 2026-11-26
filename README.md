@@ -19,6 +19,8 @@ Originally developed as a final-year systems project in Computer Science.
 
 The framework demonstrates a programmable approach to network operations using open-source tooling.
 
+![Network topology](docs/assets/topology.png)
+
 Key components include:
 
 • Python automation framework using Nornir, Scrapli and Napalm  
@@ -42,11 +44,19 @@ These workflows demonstrate how network infrastructure can be treated as a progr
 
 ---
 
+## Demonstration
+
+[Watch the project demonstration](https://www.youtube.com/watch?v=8RrYqJJq8sM)
+
+---
+
 ## Project Context
 
 This project was developed as part of a Computer Science programme at the University of East London and explores foundational ideas in network automation and infrastructure programmability.
 
 Many of the concepts explored here later informed the design philosophy behind the HybridOps platform.
+
+[University award record](docs/evidence/university-award.pdf)
 
 ---
 
